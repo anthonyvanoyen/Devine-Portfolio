@@ -28,7 +28,7 @@ var mainTab = Titanium.UI.createTab({
 });
 
 var departmentsTab = Titanium.UI.createTab({  
-    title: 'Departments',
+    title: 'Dedqsdsqpartments',
     window: departmentsWindow
 });
 
